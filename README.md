@@ -1,2 +1,3 @@
 # alopaza
 repo
+full regu
